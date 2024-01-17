@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I'm Olena 👋
+
+I am a skilled Data Engineer with experience in various projects, proficient in Python and Scala.
+
+During my participation in Google Summer of Code 2023, I contributed to the development of a plugin for the Scala compiler, specializing in handling async transformations. 
+
+I'm passionate about learning new things and always open to new experiences.
 
 <!--
 **alnkravchenko/alnkravchenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

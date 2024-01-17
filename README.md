@@ -1,10 +1,12 @@
 ### Hi, I'm Olena 👋
 
-I am a skilled Data Engineer with experience in various projects, proficient in Python and Scala.
+I am a skilled Data Engineer with experience in various projects, proficient in Python, optimizing the performance of data warehouses (mainly Snowflake) and data modeling.
 
 During my participation in Google Summer of Code 2023, I contributed to the development of a plugin for the Scala compiler, specializing in handling async transformations. 
 
 I'm passionate about learning new things and always open to new experiences.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alnkravchenko&layout=compact)](https://github.com/alnkravchenko/github-readme-stats)
 
 <!--
 **alnkravchenko/alnkravchenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
